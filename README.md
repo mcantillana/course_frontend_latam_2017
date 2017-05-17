@@ -1,6 +1,7 @@
-Temarios
-
-# Javascript
+# Temario
+## HTML/CSS/BOOTSTRAP/RESPONSIVE
+...
+## Javascript
 
 * Intro a programación con Javascript (ciclos y estructuras de control)
     - Concepto algoritmo
@@ -20,7 +21,7 @@ Temarios
 * jQuery Ajax
 
 
-# Tools productividad
+## Tools productividad
 * Pre-procesadors, Saas
     - Por que usar pre-procesadores
     - Tipos de pre-procesadores
@@ -43,7 +44,7 @@ Temarios
     - Instalación de browser sync
     - Configurar Gulp para utilizar browser sync
 
-# wordpress
+## wordpress
 * Instalación de WordPress (local)
 * Estructura de wordpress
 * Estructura de un theme para wordpress
